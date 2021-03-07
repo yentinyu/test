@@ -5,7 +5,7 @@
     <title>你好，GitHub</title>
   </head>
   <body>
-    ！[image]（圖片或gif網址）
+    ！[image]（989-黑色.png）
     <h1>HI tingyu</h1>
   </body>
 </html>
