@@ -6,6 +6,7 @@
   </head>
   <body>
     <h1>HI tingyu</h1>
+    <img src="989-黑色.png" alt="Flowers in Chania">
   </body>
 </html>
-![image] (https://github.com/yentinyu/test/blob/main/989-%E9%BB%91%E8%89%B2.png)
+
